@@ -1,0 +1,50 @@
+name: techsphere
+description: TechSphere — Real-time Chat App
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.0
+  google_sign_in: ^6.2.1
+  cloud_firestore: ^4.15.0
+  firebase_storage: ^11.6.0
+  image_picker: ^1.0.7
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.1
+  intl: ^0.19.0
+  photo_view: ^0.14.0
+  fluttertoast: ^8.2.4
+  timeago: ^3.6.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Signatra
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
+
+  assets:
+    - assets/images/google_signin_button.png
+    - assets/images/img_not_available.jpeg
+    - assets/images/mimi1.gif
+    - assets/images/mimi2.gif
+    - assets/images/mimi3.gif
+    - assets/images/mimi4.gif
+    - assets/images/mimi5.gif
+    - assets/images/mimi6.gif
+    - assets/images/mimi7.gif
+    - assets/images/mimi8.gif
+    - assets/images/mimi9.gif

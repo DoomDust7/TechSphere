@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "394011305910",
+    "project_id": "cupidity-flutter",
+    "storage_bucket": "cupidity-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394011305910:android:1b3960a51d828a339b0317",
+        "android_client_info": {
+          "package_name": "in.co.cupidity_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394011305910-5ii7pfn1bv0p5bb0hlf5cug01pcdti8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.cupidity_flutter",
+            "certificate_hash": "f62e350c98bf3cdfe753bae23c778435be2c17b4"
+          }
+        },
+        {
+          "client_id": "394011305910-96ld0c2jjnghm0e0jfb3irfqbbevmot3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.cupidity_flutter",
+            "certificate_hash": "1c1de10154735fde94a6b554f1e2cbec86c84b96"
+          }
+        },
+        {
+          "client_id": "394011305910-r2rknf0rpi1e6ao5fii1efgop5ctj5cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.cupidity_flutter",
+            "certificate_hash": "2021cb7c2a1aabcf0eccc9eb7492d48ebf61b444"
+          }
+        },
+        {
+          "client_id": "394011305910-vvd71da8ormt3tpc6lqgnoovsc43800v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.cupidity_flutter",
+            "certificate_hash": "92825280dc4697a8baa605cc9b4dfc4148be859f"
+          }
+        },
+        {
+          "client_id": "394011305910-4miie7vctrduab0lmpfula2uq6nfighc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6hk0cS_8Ap6xb0w4OZ6kaCtIjT5hsk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394011305910-4miie7vctrduab0lmpfula2uq6nfighc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394011305910-920rifboc2380ron8km84i0a05pi440k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cupidityFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
