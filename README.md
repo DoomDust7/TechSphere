@@ -62,7 +62,7 @@ firebase deploy
 ```
 Live at: `https://cupidity-flutter.web.app`
 
-## Migration from original (Cupidity Chat 2019)
+## Migration from original (TechSphere 2019)
 
 The original repo used Firebase SDK 0.x which is completely incompatible with modern Flutter. All APIs were rewritten:
 
